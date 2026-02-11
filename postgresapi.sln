@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "postgresapi", "postgresapi\postgresapi.csproj", "{5ADA3B9B-720B-4980-9E39-61EE16CBFF87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "userservice", "userservice\userservice.csproj", "{04CDF4F8-9CCC-4E55-A89D-97B0E58C797C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ADA3B9B-720B-4980-9E39-61EE16CBFF87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ADA3B9B-720B-4980-9E39-61EE16CBFF87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ADA3B9B-720B-4980-9E39-61EE16CBFF87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ADA3B9B-720B-4980-9E39-61EE16CBFF87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04CDF4F8-9CCC-4E55-A89D-97B0E58C797C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04CDF4F8-9CCC-4E55-A89D-97B0E58C797C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04CDF4F8-9CCC-4E55-A89D-97B0E58C797C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04CDF4F8-9CCC-4E55-A89D-97B0E58C797C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
