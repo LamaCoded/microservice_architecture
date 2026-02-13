@@ -15,7 +15,7 @@ var audience = jwtSettings["Audience"] ?? throw new Exception("JWT Audience miss
 
 builder.Services.AddControllers();
 builder.Services.AddScoped<DatabaseContext>();
-builder.Services.AddScoped<Icategory,productRepo>();
+builder.Services.AddScoped<Icategory, productRepo>();
 builder.Services.AddScoped<Iproduct, productRepo>();
 
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)

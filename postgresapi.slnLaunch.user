@@ -7,7 +7,7 @@
         "Action": "Start"
       },
       {
-        "Path": "productservices\\productservices.csproj",
+        "Path": "orderservices\\orderservices.csproj",
         "Action": "Start"
       }
     ]

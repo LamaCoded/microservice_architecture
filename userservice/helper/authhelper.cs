@@ -42,5 +42,18 @@ namespace userservice.helper
             return tokenHandler.WriteToken(token);
         }
 
+        public (string UserId, string Username) DecodeJwtToken(string token)
+        {
+            var handler = new JwtSecurityTokenHandler();
+            var jwt = handler.ReadJwtToken(token.Replace("Bearer ", ""));
+
+            var userId = jwt.Claims.FirstOrDefault(x => x.Type == ClaimTypes.NameIdentifier)?.Value;
+            var username = jwt.Claims.FirstOrDefault(x => x.Type == ClaimTypes.Name)?.Value;
+
+            return (userId, username);
+        }
+
+
+
     }
 }
