@@ -1,0 +1,10 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "API Gateway",
+    "description": "Unified API Gateway for all microservices",
+    "version": "v1"
+  },
+  "paths": { },
+  "components": { }
+}

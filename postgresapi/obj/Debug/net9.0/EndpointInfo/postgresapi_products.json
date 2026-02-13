@@ -1,0 +1,9 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Product Service",
+    "version": "v1"
+  },
+  "paths": { },
+  "components": { }
+}

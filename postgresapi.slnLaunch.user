@@ -9,6 +9,14 @@
       {
         "Path": "orderservices\\orderservices.csproj",
         "Action": "Start"
+      },
+      {
+        "Path": "postgresapi\\postgresapi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "productservices\\productservices.csproj",
+        "Action": "Start"
       }
     ]
   }
