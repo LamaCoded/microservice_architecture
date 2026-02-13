@@ -35,3 +35,12 @@ C:\Users\Jarvish\source\repos\postgresapi\userservice\obj\Debug\net9.0\userservi
 C:\Users\Jarvish\source\repos\postgresapi\userservice\obj\Debug\net9.0\userservice.genruntimeconfig.cache
 C:\Users\Jarvish\source\repos\postgresapi\userservice\obj\Debug\net9.0\ref\userservice.dll
 C:\Users\Jarvish\source\repos\postgresapi\userservice\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Jarvish\source\repos\postgresapi\userservice\obj\Debug\net9.0\userservice.sourcelink.json
+C:\Users\Jarvish\source\repos\postgresapi\userservice\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Jarvish\source\repos\postgresapi\userservice\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Jarvish\source\repos\postgresapi\userservice\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jarvish\source\repos\postgresapi\userservice\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jarvish\source\repos\postgresapi\userservice\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jarvish\source\repos\postgresapi\userservice\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jarvish\source\repos\postgresapi\userservice\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jarvish\source\repos\postgresapi\userservice\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
